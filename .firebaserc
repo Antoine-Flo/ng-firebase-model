@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-model-37f48": {
+      "hosting": {
+        "firebase-model": [
+          "fir-model-37f48"
+        ]
+      }
+    }
+  }
+}
